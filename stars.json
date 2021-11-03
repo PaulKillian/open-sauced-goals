@@ -1,9 +1,9 @@
 [
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49847,
-    "open_issues_count": 14,
-    "forks_count": 4260
+    "stargazers_count": 49874,
+    "open_issues_count": 15,
+    "forks_count": 4262
   },
   {
     "full_name": "thebearingedge/global-installs-are-bad",
@@ -13,68 +13,68 @@
   },
   {
     "full_name": "zo0r/react-native-push-notification",
-    "stargazers_count": 6181,
-    "open_issues_count": 230,
-    "forks_count": 1884
+    "stargazers_count": 6188,
+    "open_issues_count": 228,
+    "forks_count": 1885
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 7289,
+    "stargazers_count": 7307,
     "open_issues_count": 1,
-    "forks_count": 428
+    "forks_count": 429
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
-    "stargazers_count": 807,
+    "stargazers_count": 806,
     "open_issues_count": 120,
-    "forks_count": 1043
+    "forks_count": 1045
   },
   {
     "full_name": "austintgriffith/scaffold-eth",
-    "stargazers_count": 3777,
-    "open_issues_count": 39,
-    "forks_count": 1257
+    "stargazers_count": 3832,
+    "open_issues_count": 40,
+    "forks_count": 1280
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 31958,
+    "stargazers_count": 31984,
     "open_issues_count": 14,
-    "forks_count": 4790
+    "forks_count": 4798
   },
   {
     "full_name": "adobe/brackets",
-    "stargazers_count": 33740,
+    "stargazers_count": 33739,
     "open_issues_count": 2791,
-    "forks_count": 8304
+    "forks_count": 8307
   },
   {
     "full_name": "nomi-sec/PoC-in-GitHub",
-    "stargazers_count": 3078,
+    "stargazers_count": 3095,
     "open_issues_count": 7,
-    "forks_count": 645
+    "forks_count": 648
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 35965,
-    "open_issues_count": 11,
-    "forks_count": 5048
+    "stargazers_count": 36131,
+    "open_issues_count": 13,
+    "forks_count": 5105
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 5790,
+    "stargazers_count": 5800,
     "open_issues_count": 67,
     "forks_count": 1282
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 25336,
+    "stargazers_count": 25356,
     "open_issues_count": 15,
-    "forks_count": 1410
+    "forks_count": 1411
   },
   {
     "full_name": "animate-css/animate.css",
-    "stargazers_count": 72620,
-    "open_issues_count": 26,
+    "stargazers_count": 72650,
+    "open_issues_count": 29,
     "forks_count": 15937
   },
   {
@@ -85,98 +85,98 @@
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 8509,
-    "open_issues_count": 45,
-    "forks_count": 346
+    "stargazers_count": 8532,
+    "open_issues_count": 42,
+    "forks_count": 345
   },
   {
     "full_name": "philnash/react-web-audio",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 45632,
+    "stargazers_count": 45718,
     "open_issues_count": 282,
-    "forks_count": 6406
+    "forks_count": 6414
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 65617,
-    "open_issues_count": 1527,
-    "forks_count": 6672
+    "stargazers_count": 65744,
+    "open_issues_count": 1541,
+    "forks_count": 6682
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 36024,
+    "stargazers_count": 36089,
     "open_issues_count": 46,
-    "forks_count": 5281
+    "forks_count": 5291
   },
   {
     "full_name": "tc39/proposal-iterator-helpers",
-    "stargazers_count": 696,
-    "open_issues_count": 22,
+    "stargazers_count": 695,
+    "open_issues_count": 24,
     "forks_count": 30
   },
   {
     "full_name": "languagetool-org/languagetool",
-    "stargazers_count": 5475,
-    "open_issues_count": 1402,
-    "forks_count": 841
+    "stargazers_count": 5491,
+    "open_issues_count": 1400,
+    "forks_count": 843
   },
   {
     "full_name": "ResponsiveBP/Responsive",
-    "stargazers_count": 812,
+    "stargazers_count": 813,
     "open_issues_count": 8,
-    "forks_count": 139
+    "forks_count": 140
   },
   {
     "full_name": "knex/knex",
-    "stargazers_count": 14863,
-    "open_issues_count": 581,
-    "forks_count": 1748
+    "stargazers_count": 14878,
+    "open_issues_count": 580,
+    "forks_count": 1751
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 98961,
-    "open_issues_count": 2056,
-    "forks_count": 21389
+    "stargazers_count": 99023,
+    "open_issues_count": 2063,
+    "forks_count": 21399
   },
   {
     "full_name": "gatsbyjs/gatsby-starter-default",
-    "stargazers_count": 1268,
+    "stargazers_count": 1271,
     "open_issues_count": 6,
-    "forks_count": 894
+    "forks_count": 896
   },
   {
     "full_name": "FirebaseExtended/flutterfire",
-    "stargazers_count": 5757,
-    "open_issues_count": 252,
-    "forks_count": 2730
+    "stargazers_count": 5765,
+    "open_issues_count": 253,
+    "forks_count": 2744
   },
   {
     "full_name": "mui-org/material-ui",
-    "stargazers_count": 72589,
-    "open_issues_count": 731,
-    "forks_count": 24632
+    "stargazers_count": 72681,
+    "open_issues_count": 757,
+    "forks_count": 24700
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 71736,
-    "open_issues_count": 34,
-    "forks_count": 7253
+    "stargazers_count": 71789,
+    "open_issues_count": 35,
+    "forks_count": 7258
   },
   {
     "full_name": "angular/components",
-    "stargazers_count": 22213,
-    "open_issues_count": 2032,
-    "forks_count": 5887
+    "stargazers_count": 22241,
+    "open_issues_count": 2036,
+    "forks_count": 5890
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 48525,
-    "open_issues_count": 57,
-    "forks_count": 2272
+    "stargazers_count": 48638,
+    "open_issues_count": 63,
+    "forks_count": 2286
   }
 ]
