@@ -1,9 +1,9 @@
 [
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49874,
+    "stargazers_count": 49902,
     "open_issues_count": 15,
-    "forks_count": 4262
+    "forks_count": 4265
   },
   {
     "full_name": "thebearingedge/global-installs-are-bad",
@@ -13,69 +13,69 @@
   },
   {
     "full_name": "zo0r/react-native-push-notification",
-    "stargazers_count": 6188,
-    "open_issues_count": 228,
+    "stargazers_count": 6190,
+    "open_issues_count": 223,
     "forks_count": 1885
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 7307,
+    "stargazers_count": 7322,
     "open_issues_count": 1,
-    "forks_count": 429
+    "forks_count": 430
   },
   {
     "full_name": "danthareja/contribute-to-open-source",
-    "stargazers_count": 806,
+    "stargazers_count": 805,
     "open_issues_count": 120,
-    "forks_count": 1045
+    "forks_count": 1044
   },
   {
     "full_name": "austintgriffith/scaffold-eth",
-    "stargazers_count": 3832,
+    "stargazers_count": 3899,
     "open_issues_count": 40,
-    "forks_count": 1280
+    "forks_count": 1290
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 31984,
+    "stargazers_count": 32004,
     "open_issues_count": 14,
     "forks_count": 4798
   },
   {
     "full_name": "adobe/brackets",
-    "stargazers_count": 33739,
+    "stargazers_count": 33738,
     "open_issues_count": 2791,
-    "forks_count": 8307
+    "forks_count": 8311
   },
   {
     "full_name": "nomi-sec/PoC-in-GitHub",
-    "stargazers_count": 3095,
+    "stargazers_count": 3110,
     "open_issues_count": 7,
-    "forks_count": 648
+    "forks_count": 651
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 36131,
-    "open_issues_count": 13,
-    "forks_count": 5105
+    "stargazers_count": 36262,
+    "open_issues_count": 16,
+    "forks_count": 5130
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 5800,
-    "open_issues_count": 67,
-    "forks_count": 1282
+    "stargazers_count": 5803,
+    "open_issues_count": 69,
+    "forks_count": 1284
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 25356,
+    "stargazers_count": 25369,
     "open_issues_count": 15,
-    "forks_count": 1411
+    "forks_count": 1412
   },
   {
     "full_name": "animate-css/animate.css",
-    "stargazers_count": 72650,
-    "open_issues_count": 29,
-    "forks_count": 15937
+    "stargazers_count": 72677,
+    "open_issues_count": 24,
+    "forks_count": 15940
   },
   {
     "full_name": "JonnyBurger/remotion-wrapped",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 8532,
-    "open_issues_count": 42,
-    "forks_count": 345
+    "stargazers_count": 8559,
+    "open_issues_count": 45,
+    "forks_count": 349
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -97,33 +97,33 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 45718,
+    "stargazers_count": 45806,
     "open_issues_count": 282,
-    "forks_count": 6414
+    "forks_count": 6435
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 65744,
-    "open_issues_count": 1541,
-    "forks_count": 6682
+    "stargazers_count": 65807,
+    "open_issues_count": 1542,
+    "forks_count": 6700
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 36089,
+    "stargazers_count": 36146,
     "open_issues_count": 46,
-    "forks_count": 5291
+    "forks_count": 5297
   },
   {
     "full_name": "tc39/proposal-iterator-helpers",
-    "stargazers_count": 695,
+    "stargazers_count": 696,
     "open_issues_count": 24,
     "forks_count": 30
   },
   {
     "full_name": "languagetool-org/languagetool",
-    "stargazers_count": 5491,
+    "stargazers_count": 5509,
     "open_issues_count": 1400,
-    "forks_count": 843
+    "forks_count": 846
   },
   {
     "full_name": "ResponsiveBP/Responsive",
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "knex/knex",
-    "stargazers_count": 14878,
-    "open_issues_count": 580,
-    "forks_count": 1751
+    "stargazers_count": 14893,
+    "open_issues_count": 581,
+    "forks_count": 1760
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 99023,
-    "open_issues_count": 2063,
-    "forks_count": 21399
+    "stargazers_count": 99080,
+    "open_issues_count": 2074,
+    "forks_count": 21412
   },
   {
     "full_name": "gatsbyjs/gatsby-starter-default",
-    "stargazers_count": 1271,
+    "stargazers_count": 1270,
     "open_issues_count": 6,
-    "forks_count": 896
+    "forks_count": 897
   },
   {
     "full_name": "FirebaseExtended/flutterfire",
-    "stargazers_count": 5765,
-    "open_issues_count": 253,
-    "forks_count": 2744
+    "stargazers_count": 5769,
+    "open_issues_count": 255,
+    "forks_count": 2751
   },
   {
     "full_name": "mui-org/material-ui",
-    "stargazers_count": 72681,
-    "open_issues_count": 757,
-    "forks_count": 24700
+    "stargazers_count": 72742,
+    "open_issues_count": 778,
+    "forks_count": 24736
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 71789,
-    "open_issues_count": 35,
-    "forks_count": 7258
+    "stargazers_count": 71900,
+    "open_issues_count": 39,
+    "forks_count": 7276
   },
   {
     "full_name": "angular/components",
-    "stargazers_count": 22241,
-    "open_issues_count": 2036,
-    "forks_count": 5890
+    "stargazers_count": 22247,
+    "open_issues_count": 2050,
+    "forks_count": 5893
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 48638,
-    "open_issues_count": 63,
-    "forks_count": 2286
+    "stargazers_count": 48750,
+    "open_issues_count": 60,
+    "forks_count": 2291
   }
 ]
